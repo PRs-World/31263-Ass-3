@@ -16,5 +16,5 @@ public class CommitTest : MonoBehaviour
         
     }*/
 
-    //Nothing'll be written here, it's just a file to confirm the committing and pushing into GitHub works.
+    //Nothing'll be written here, it's just a file to confirm the committing and pushing into GitHub works...
 }
