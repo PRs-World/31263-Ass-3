@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1514703539c7ca940a23e6da7ce2481c
+guid: 8bd94e23e38e0644f9ce3de5212bedf7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -107,13 +107,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Walls_0
+      name: ActuallyFinalWalls_0
       rect:
         serializedVersion: 2
         x: 15
-        y: 92
-        width: 23
-        height: 23
+        y: 173
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,18 +121,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f58526df095b45b4ca086d91d5310a85
-      internalID: -1235784302
+      spriteID: a74a8b3b356aa8f4498a15fe1eb06c92
+      internalID: 1378565316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walls_1
+      name: ActuallyFinalWalls_1
       rect:
         serializedVersion: 2
         x: 79
-        y: 92
+        y: 156
         width: 5
         height: 16
       alignment: 0
@@ -142,18 +142,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0ee49718b200474e85e92550710f07c
-      internalID: -789522264
+      spriteID: 1bda93140cd89c942850a0ad3afd3910
+      internalID: 1493950972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walls_2
+      name: ActuallyFinalWalls_2
       rect:
         serializedVersion: 2
         x: 15
-        y: 1
+        y: 65
         width: 23
         height: 45
       alignment: 0
@@ -163,18 +163,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6f760c81f417444aa640557f8728b15
-      internalID: -1899771981
+      spriteID: bed0380d50ea4de469f28ae0c5f40aa5
+      internalID: -1097836232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walls_3
+      name: ActuallyFinalWalls_3
       rect:
         serializedVersion: 2
         x: 86
-        y: 10
+        y: 74
         width: 16
         height: 16
       alignment: 0
@@ -184,8 +184,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1664068dd4f664e44b0701d4165cc78c
-      internalID: -568882587
+      spriteID: 662ddafb103bd0c42b1574e2273fbd3f
+      internalID: 1293920495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ActuallyFinalWalls_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 34
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c45cdef2e2c1b40af326a2aea640c5
+      internalID: 1960033308
       vertices: []
       indices: 
       edges: []
@@ -201,10 +222,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Walls_0: -1235784302
-      Walls_1: -789522264
-      Walls_2: -1899771981
-      Walls_3: -568882587
+      ActuallyFinalWalls_0: 1378565316
+      ActuallyFinalWalls_1: 1493950972
+      ActuallyFinalWalls_2: -1097836232
+      ActuallyFinalWalls_3: 1293920495
+      ActuallyFinalWalls_4: 1960033308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
