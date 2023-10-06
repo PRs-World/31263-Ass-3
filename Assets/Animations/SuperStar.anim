@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PacStudentDown
+  m_Name: SuperStar
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,15 +21,17 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: -1552787598, guid: 0953a81f7b7708b4f9ac39b57cabfcae, type: 3}
-    - time: 0.125
-      value: {fileID: -1182964137, guid: 0953a81f7b7708b4f9ac39b57cabfcae, type: 3}
+      value: {fileID: 1780943429, guid: 7d27f2ede5da6ff418a77d9542dd2fa7, type: 3}
+    - time: 0.16666667
+      value: {fileID: -197552724, guid: 7d27f2ede5da6ff418a77d9542dd2fa7, type: 3}
+    - time: 0.33333334
+      value: {fileID: -852055759, guid: 7d27f2ede5da6ff418a77d9542dd2fa7, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
     flags: 2
-  m_SampleRate: 8
+  m_SampleRate: 6
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -46,14 +48,15 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -1552787598, guid: 0953a81f7b7708b4f9ac39b57cabfcae, type: 3}
-    - {fileID: -1182964137, guid: 0953a81f7b7708b4f9ac39b57cabfcae, type: 3}
+    - {fileID: 1780943429, guid: 7d27f2ede5da6ff418a77d9542dd2fa7, type: 3}
+    - {fileID: -197552724, guid: 7d27f2ede5da6ff418a77d9542dd2fa7, type: 3}
+    - {fileID: -852055759, guid: 7d27f2ede5da6ff418a77d9542dd2fa7, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.25
+    m_StopTime: 0.5
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
