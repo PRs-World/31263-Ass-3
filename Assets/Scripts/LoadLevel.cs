@@ -5,9 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class LoadLevel : MonoBehaviour
 {
-    public void LoadScene()
+    public void LoadGameScene()
     {
         SceneManager.LoadScene("Ass3Scene");
+    }
+
+    public void LoadStartScene()
+    {
+        SceneManager.LoadScene("StartScene");
     }
 
     // Start is called before the first frame update
