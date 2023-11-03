@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PacStudentController : MonoBehaviour
 {
-
     public float moveSpeed = 5.0f;
     private Vector3 targetPosition;
     private bool isMoving = false;
